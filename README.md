@@ -1,5 +1,26 @@
+Kyle Yok Eyh Ma
+3/22/24
+Social Media Dashboard in React
+Description:
+
+Goal is to recreate the design that is in the design folder. A style sheet file and images folder is also given to use to use. 
+
+
+Built in React TS
+Must have a component folder ( App cannot be built in the app.js or in the index.js)
+Mobile and Desktop versions must be built out
+Must use all assets given
+You can use bootstrap or tailwind
+Light and Dark Mode
+Goal is to recreate this challenge as close to the design as possible
+
+
 Peer Reviewer: Aidan Younathan
 Peer Review: This looks really good, the app is responsive and the dark mode works good, Good Job!
+
+
+
+
 
 
 
