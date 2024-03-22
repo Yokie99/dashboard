@@ -6,7 +6,7 @@ const OverviewCardComponent = (values:IOverview) => {
     const arrowClass = `flex items-center ${values.color} font-bold text-sm`
 
   return (
-    <div className="w-80 bg-slate-200 dark:bg-slate-800 p-5 rounded shadow shadow-slate-50 dark:shadow-slate-700">
+    <div className="dark:hover:bg-[hsl(228,26%,27%)] hover:bg-[hsl(232,33%,91%)] bg-[hsl(222,50%,96%)] dark:bg-[hsl(228,29%,20%)] p-5 rounded shadow shadow-slate-50 dark:shadow-slate-700">
           <ul className="flex items-center justify-between mb-5">
             <li className="text-slate-600 font-bold dark:text-slate-400">
               {values.metric}
