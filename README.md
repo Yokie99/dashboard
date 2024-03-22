@@ -1,3 +1,8 @@
+Peer Reviewer: Aidan Younathan
+Peer Review: This looks really good, the app is responsive and the dark mode works good, Good Job!
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
